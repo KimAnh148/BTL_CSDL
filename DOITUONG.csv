@@ -1,0 +1,51 @@
+USER_ID,QueQuan,GioiTinh,NgaySinh,Ho,TenDem,Ten,TypeUerID
+user1,Hà Nội,Nam,2002-01-01,Nguyễn,Văn,An,SV
+user2,Hải Dương,Nữ,1990-05-15,Trần,Thị,Mai,GV
+user3,Bắc Ninh,Nam,2002-05-15,Trần,Văn,Mạnh,SV
+user4,Vinh,Nữ,2003-05-16,Trần,Thị,Châu,SV
+user5,Thái Bình,Nữ,1990-05-15,Trần,Thị,Diệu,GV
+user6,Thái Bình,Nam,2002-01-01,Nguyễn,Văn,Anh,SV
+user7,Lạng Sơn,Nam,2002-01-01,Nguyễn,Văn,Sơn,SV
+user8,Hà Nội,Nam,2003-01-01,Nguyễn,Văn,Hùng,SV
+user9,Hà Nội,Nữ,1992-05-15,Lê,Minh,Tú,GV
+user10,Hưng Yên,Nam,2003-12-21,Phạm,Văn,Đạt,SV
+user11,Hải Phòng,Nam,2003-12-25,Hoàng,Minh,Nhật,SV
+user12,Thái Nguyên,Nam,1992-02-22,Vũ,Tuấn,Anh,GV
+user13,Hòa Bình,Nam,2002-03-08,Phan,Chí,Thiện,SV
+user14,Hà Giang,Nam,2004-10-31,Bùi,Văn,Quang,SV
+user15,Bắc Giang,Nam,2005-09-06,Đặng,Quang,Thanh,SV
+user16,Quảng Ninh,Nữ,1995-07-15,Đặng,Huyền,Trang,GV
+user17,Nam Định,Nam,2004-08-17,Đỗ,Anh,Tuấn,SV
+user18,Ninh Bình,Nữ,2004-07-18,Ngô,Thị Mai,Hương,SV
+user19,Hà Nam,Nữ,2003-01-16,Đỗ,Thị Thu,Yến,SV
+user20,Thanh Hóa,Nữ,1980-06-11,Dương,Quế,Chi,GV
+user21,Nghệ An,Nam,2002-08-12,Đinh,Gia,Bảo,SV
+user22,Hà Tĩnh,Nam,2003-02-21,Đinh,Thành,Đạt,SV
+user23,Phú Thọ,Nam,1991-01-12,Hồ,Mạnh,Hùng,GV
+user24,Vĩnh Phúc,Nam,2005-05-23,Trịnh,Bảo,Khánh,SV
+user25,Tuyên Quang,Nam,2004-06-24,Lý,Minh,Kiên,SV
+user26,Sơn La,Nữ,1996-12-24,Lương,Thị,Bình,GV
+user27,Yên Bái,Nam,2004-04-01,Phạm,Bùi Thanh,Phong,SV
+user28,Điện Biên,Nữ,2005-05-01,Vũ,Thảo,Nguyên,SV
+user29,Thái Bình,Nữ,2003-06-01,Lê,Thị Kim,Nguyên,SV
+user30,Hà Nội,Nữ,2002-12-22,Trần,Kim,Ngân,SV
+user31,Hà Nội,Nữ,2004-08-14,Dương,Thanh,Thảo,SV
+user32,Hà Nam,Nữ,2003-08-15,Đỗ,Thanh,Tâm,SV
+user33,Nam Định,Nam,1993-03-02,Nguyễn,Đăng,Khoa,GV
+user34,Nghệ An,Nam,2002-03-11,Nguyễn,Minh,Nhật,SV
+user35,Hòa Bình,Nữ,2004-09-16,Trịnh,Hải,Yến,SV
+user36,Thái Nguyên,Nam,2003-09-27,Hoàng,Gia Tuấn,Kiệt,SV
+user37,Bắc Ninh,Nữ,2003-10-12,Khổng,Thu,Nguyệt,SV
+user38,Bắc Ninh,Nữ,1989-12-10,Cao,Hương,Thảo,GV
+user39,Quảng Ninh,Nam,2001-06-12,Trần,Hiền,Minh,SV
+user40,Nam Định,Nữ,1992-12-22,Lê,Cát,Tường,GV
+user41,Ninh Bình,Nam,2004-08-14,Lê,Hoàng,Nam,SV
+user42,Hải Phòng,Nam,2002-10-13,Dương,Nhật,Minh,SV
+user43,Yên Bái,Nam,1987-07-17,Phạm,Minh,Triết,GV
+user44,Lạng Sơn,Nam,2005-05-12,Phan,Khôi,Vĩ,SV
+user45,Hải Dương,Nam,2004-05-28,Vũ,Quang,Vinh,SV
+user46,Ninh Bình,Nữ,1990-02-26,Bùi,Khánh,Linh,GV
+user47,Hưng Yên,Nữ,2003-01-12,Bùi,Huyền,Nga,SV
+user48,Bắc Ninh,Nam,1990-11-20,Lý,Hoàng,Tuấn,GV
+user49,Nghệ An,Nam,2002-10-20,Đặng,Hoàng,Hiệp,SV
+user50,Thái Bình,Nữ,2002-10-20,Đặng,Ngọc,Liên,SV
